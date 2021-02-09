@@ -2,7 +2,7 @@
   "RSpec": {
     "coverage": {
       "/home/wonderful-node-3311/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
-        1,
+        null,
         null,
         null,
         1,
@@ -139,6 +139,6 @@
         null
       ]
     },
-    "timestamp": 1612881105
+    "timestamp": 1612881121
   }
 }
